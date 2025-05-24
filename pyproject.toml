@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [project.scripts]
-kickoff = "hello_flow.main:kickoff"
+kickoff = "hello_flow.main: kickoff"
 run_crew = "hello_flow.main:kickoff"
 plot = "hello_flow.main:plot"
 
